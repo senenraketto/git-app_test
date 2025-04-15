@@ -1,5 +1,5 @@
 class TestsController < ApplicationController
 
-  def index
+  def inde
   end
 end
